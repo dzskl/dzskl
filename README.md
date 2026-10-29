@@ -35,14 +35,14 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3>🔐 Bion Finance</h3>
+      <h3>Bion Finance</h3>
       <p>A Bion Finance é uma plataforma SaaS de gestão financeira e operacional para restaurantes, hamburguerias, pizzarias e negócios de delivery. Com inteligência artificial e integrações automatizadas, centraliza financeiro, estoque, compras, fornecedores, pagamentos e delivery em um só lugar, ajudando os empresários a reduzir custos, aumentar a lucratividade e tomar decisões mais inteligentes.</p>
       <a href="https://bion-web.onrender.com/">
         <img src="https://i.postimg.cc/SNQ9YCFY/2b767391-a469-412c-9211-bf02f0a6ee93.png"/>
       </a>
     </td>
     <td align="center" width="50%">
-      <h3>🛡️ Projeto 02</h3>
+      <h3>FixMygut</h3>
       <p>FixMyGut é uma plataforma criada para apoiar pessoas que convivem com doenças gastrointestinais crônicas, como a gastroparesia, que pode estar associada ao uso de medicamentos para perda de peso. O objetivo é oferecer informação confiável, acompanhamento de sintomas e ferramentas para melhorar a qualidade de vida, ajudando pacientes a lidar com os desafios de uma condição que pode não ter cura definitiva.</p>
       <a href="https://www.fixmygutprotocol.com">
         <img src="https://i.postimg.cc/fTFbW9Mp/fixm.png"/>
