@@ -28,7 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
 </div>
 
-################################################################################################ -- PROJETOS EM DESTAQUE --
+##                                                                                                       -- PROJETOS EM DESTAQUE --
 
 <div align="center">
 
