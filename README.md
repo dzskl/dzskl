@@ -1,67 +1,74 @@
-<div data-importer="image" align="center">
-  <img data-importer="image" height="198" src="https://i.postimg.cc/25kNr9RM/1792722503364.jpg"  />
+## 🚀 Projetos em Destaque
+
+<div align="center">
+
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🔐 Projeto 01</h3>
+        <div align="center">
+          <a href="LINK_DO_REPOSITORIO">
+            <img src="https://img.shields.io/badge/VER_PROJETO-181717?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+        </div>
+        <p align="center">
+          Descrição do projeto, seus objetivos e principais funcionalidades.
+        </p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+          <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">🛡️ Projeto 02</h3>
+        <div align="center">
+          <a href="LINK_DO_REPOSITORIO">
+            <img src="https://img.shields.io/badge/VER_PROJETO-181717?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+        </div>
+        <p align="center">
+          Descrição do projeto, seus objetivos e principais funcionalidades.
+        </p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/Cybersecurity-111111?style=flat-square&logo=kalilinux&logoColor=white" />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">💻 Projeto 03</h3>
+        <div align="center">
+          <a href="LINK_DO_REPOSITORIO">
+            <img src="https://img.shields.io/badge/VER_PROJETO-181717?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+        </div>
+        <p align="center">
+          Descrição do projeto, seus objetivos e principais funcionalidades.
+        </p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+          <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">⚡ Projeto 04</h3>
+        <div align="center">
+          <a href="LINK_DO_REPOSITORIO">
+            <img src="https://img.shields.io/badge/VER_PROJETO-181717?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+        </div>
+        <p align="center">
+          Descrição do projeto, seus objetivos e principais funcionalidades.
+        </p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+          <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+        </p>
+      </td>
+    </tr>
+  </table>
+
 </div>
 
-###
-
-<h4 data-importer="text" align="center">Sou desenvolvedor Full Stack apaixonado por Cybersecurity. Combino a criação de aplicações robustas e escaláveis no ecossistema JavaScript/TypeScript com boas práticas de segurança defensiva, análise de vulnerabilidades e desenvolvimento seguro (DevSecOps).<br><br> Focado em arquiteturas web modernas, APIs eficientes e segurança de aplicações.<br><br> Disponível para colaborar em projetos de código aberto e desafios na área de segurança e desenvolvimento.<br>📬 Contact: lucasfreitasttfish@gmail.com</h4>
-
-###
-
-<div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-</div>
-
-###
-
-<div data-importer="socials" align="center">
-  <a href="https://www.linkedin.com/in/lucasfreitasss/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/users/949815058848956568" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-  <a href="https://www.twitch.tv/lucas_solli" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  </a>
-  <a href="https://www.instagram.com/lucas_solli/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/dzskl/dzskl/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=dzskl&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dzskl/dzskl/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dzskl/dzskl/pacman-output/galaga-contribution-graph.svg?game=galaga">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dzskl/dzskl/pacman-output/galaga-contribution-graph.svg?game=galaga">
-</picture>
-
-###
+---
