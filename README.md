@@ -28,33 +28,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
 </div>
 
-
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤ<h3> PROJETOS EM DESTAQUE <h3>
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h3>Bion Finance</h3>
-      <p>A Bion Finance é uma plataforma SaaS de gestão financeira e operacional para restaurantes, hamburguerias, pizzarias e negócios de delivery. Com inteligência artificial e integrações automatizadas, centraliza financeiro, estoque, compras, fornecedores, pagamentos e delivery em um só lugar, ajudando os empresários a reduzir custos, aumentar a lucratividade e tomar decisões mais inteligentes.</p>
-      <a href="https://bion-web.onrender.com/">
-        <img src="https://i.postimg.cc/PfvX3qbG/bionf.png"/>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <h3>FixMygut</h3>
-      <p>FixMyGut é uma plataforma criada para apoiar pessoas que convivem com doenças gastrointestinais crônicas, como a gastroparesia, que pode estar associada ao uso de medicamentos para perda de peso. O objetivo é oferecer informação confiável, acompanhamento de sintomas e ferramentas para melhorar a qualidade de vida, ajudando pacientes a lidar com os desafios de uma condição que pode não ter cura definitiva.</p>
-      <a href="https://www.fixmygutprotocol.com">
-        <img src="https://i.postimg.cc/fTFbW9Mp/fixm.png"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-###
 ###
 
 <div data-importer="socials" align="center">
@@ -77,7 +50,6 @@
 <br clear="both">
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/dzskl/dzskl/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=dzskl&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
